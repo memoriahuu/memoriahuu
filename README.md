@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p data-importer="text" align="left">Hi, I am Memoria👋<br>I am an UX Engieer & Front-end Designer. <br>Recently exploring game designs...</p>
+<p data-importer="text" align="left">Hi, I am Memoria👋<br>I am an UX Engieer who works on UX design and Front-end programming. <br>Recently exploring game designs...</p>
 
 <!--
 ###
