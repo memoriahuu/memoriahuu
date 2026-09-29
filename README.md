@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=memoriahuu.memoriahuu&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=memoriahuu.memoriahuu&left_text=say%20hiiii"  />
 </div>
 
 ###
